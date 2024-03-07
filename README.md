@@ -8,3 +8,4 @@
 - Immediately Invoked Function Expression
 - GUID
 - Framework
+- Self-Invoking Function
