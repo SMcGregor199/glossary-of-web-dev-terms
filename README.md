@@ -24,3 +24,11 @@ An Immediately Invoked Function Expression (IIFE) is a function that is executed
 **Further Resources**
 
 **Related Terms**
+
+### Representational State Transfer API
+
+**Definition**
+
+A RESTful API (Representational State Transfer API) is a design pattern for building web services that interact
+with resources over HTTP using standard methods like GET, PUT, DELETE, etc. It adheres to REST principles, which emphasize stateless
+communication and resource-based archietecture.
