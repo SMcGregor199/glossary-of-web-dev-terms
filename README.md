@@ -35,13 +35,15 @@ communication and resource-based archietecture.
 
 ```javascript
 fetch("https://example.com/api/data")
-.then(function(response){
-    return response.json();
-})
-.then(function(data){
-    console.log(data);
-})
-
+    .then(function(response){
+        return response.json();
+    })
+    .then(function(data){
+        console.log(data);
+    })
+    .catch(function(error){
+        console.log(`There was an error fetching data:${error}`);
+    })
 ```
 
 ### Widget
