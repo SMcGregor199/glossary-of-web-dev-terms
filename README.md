@@ -33,6 +33,17 @@ A RESTful API (Representational State Transfer API) is a design pattern for buil
 with resources over HTTP using standard methods like GET, PUT, DELETE, etc. It adheres to REST principles, which emphasize stateless
 communication and resource-based archietecture.
 
+```javascript
+fetch("https://example.com/api/data")
+.then(function(response){
+    return response.json();
+})
+.then(function(data){
+    console.log(data);
+})
+
+```
+
 ### Widget
 
 ### Largest Contentful Paint (LCP)
