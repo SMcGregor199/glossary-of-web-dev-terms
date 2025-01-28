@@ -60,6 +60,9 @@ fetch("https://example.com/api/data")
     })
 ```
 
+**Further Resources**
+-[**APIs for Beginners - How to use an API (Full Course/Tutorial - FreeCodeCamp)**](https://www.youtube.com/watch?v=WXsD0ZgxjRw&t=3s)
+
 ### Widget
 
 ### Largest Contentful Paint (LCP)
