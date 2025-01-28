@@ -30,8 +30,13 @@ An Immediately Invoked Function Expression (IIFE) is a function that is executed
 **Further Resources**
 
 - [**MDN Web Docs:Functions**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#immediately_invoked_function_expression)
-<a href="<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#immediately_invoked_function_expression>" target"_blank" rel="noopener noreferrer">MDN Web Docs:Functions</a>
+
 **Related Terms**
+
+- Function Expression
+- Global Scope
+- Variable Hosting
+- Module Pattern
 
 ### Representational State Transfer API
 
