@@ -14,6 +14,12 @@ An Immediately Invoked Function Expression (IIFE) is a function that is executed
     }
 )();
 
+/* or with arrow functions*/
+
+(()=>{
+    console.log("This is an IIFE")
+})();
+
 ```
 
 **Notes**
@@ -23,6 +29,8 @@ An Immediately Invoked Function Expression (IIFE) is a function that is executed
 
 **Further Resources**
 
+- [**MDN Web Docs:Functions**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#immediately_invoked_function_expression)
+-<a href="<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#immediately_invoked_function_expression>" target"_blank" rel="noopener noreferrer">MDN Web Docs:Functions</a>
 **Related Terms**
 
 ### Representational State Transfer API
