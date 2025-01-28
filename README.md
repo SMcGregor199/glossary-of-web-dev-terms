@@ -1,8 +1,9 @@
 # A Glossary of Web Dev Terms
 
-### Immediately Invoked Function Expression
+## Immediately Invoked Function Expression
 
-**Definition**
+### Definition
+
 An Immediately Invoked Function Expression (IIFE) is a function that is executed immediately after it is defined.
 
 **Example**
